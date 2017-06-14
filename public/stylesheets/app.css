@@ -10,6 +10,7 @@ body {
 }
 
 main {
+    font-family:'Pangolin',serif;
     background-color:yellow;
     padding: 16px;
 }
